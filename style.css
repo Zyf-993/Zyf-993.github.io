@@ -1,1 +1,61 @@
-111
+a {
+   
+    text-decoration: none;  
+    width: 200px;
+    height: 50px;
+    text-align: center;
+    display: inline-block;
+    line-height: 50px;
+  }
+.t{
+    background-color: red;
+}
+.al{
+    background-color: blue;
+}
+.z{
+    background-color: yellow;
+}
+.w{
+    background-color: yellowgreen;
+}
+.h{
+    background-color: royalblue;
+}
+  .mmp {
+      width: 1000px;
+      height: 1000px;
+      background-color: red;
+  }
+  /*div {
+      font-family: "宋体","Microsoft Yahei","Arial";
+      font-style: italic;
+      
+  }*/
+  p {
+      text-indent:2em;
+  }
+  .gray {
+      color: gray; 
+  } 
+  a:link {
+      
+      color:#fff;
+  }
+  a:visited {
+      color: yellow;
+  }
+  a:hover {
+      
+      color: blue;
+  }
+  a:active {
+      color: darkorchid;
+  }
+  input:focus {
+      background-color: red;
+      color: yellow;
+  }
+  body {
+      font:12px/1.5 'microsoft yahei';
+  }
