@@ -1,4 +1,16 @@
-a:hover {
+ body {
+          font:12px/1.5 'microsoft yahei';
+      };
+  }
+ 
+  p {
+      text-indent:2em;
+  }
+   
+ 
+  a:hover {
       
       color: rgb(0, 183, 255);
   }
+  
+ 
